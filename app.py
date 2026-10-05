@@ -12,6 +12,7 @@ if operator == "+":
 elif operator == "-":
     result = num1 - num2
 
+<<<<<<< HEAD
 elif operator == "*":
     result = num1 * num2
 
@@ -21,6 +22,8 @@ elif operator == "/":
     else:
         result = "Cannot divide by zero!"
 
+=======
+>>>>>>> b6ecaa6ff96b5d1fc68576950d4708ae104d25f4
 else:
     result = "Invalid operator!"
 
